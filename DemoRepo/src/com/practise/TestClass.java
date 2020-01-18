@@ -7,6 +7,10 @@ public class TestClass {
 	
 	public TestClass(String abc) {
 		System.out.println("abc");
+	}		
+	
+		public TestClass(String abc,String ddd) {
+		System.out.println("abcd");
 	}
 
 }
