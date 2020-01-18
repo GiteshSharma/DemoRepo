@@ -9,7 +9,7 @@ public class TestClass {
 		System.out.println("abc");
 	}		
 	
-		public TestClass(String abc,String ddd) {
+		public TestClass(String abc,String ddd,String ee) {
 		System.out.println("abcd");
 	}
 
