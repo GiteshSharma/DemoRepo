@@ -7,6 +7,8 @@ public class TestClass {
 	
 	public TestClass(String abc) {
 		System.out.println("abc");
+		
+		System.out.println("This is an addition");
 	}		
 	
 		public TestClass(String abc,String ddd,String ee) {
